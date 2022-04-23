@@ -87,7 +87,7 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(255, 255, 255);
+  color: rgb(88, 96, 105);
 }
 
 .percent {
