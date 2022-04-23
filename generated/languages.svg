@@ -80,18 +80,18 @@ div.ellipsis {
 }
 
 .progress-item {
-  outline: 2px solid rgb(225, 228, 232);
+  outline: 2px solid rgb(255, 255, 255);
   border-collapse: collapse;
 }
 
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(88, 96, 105);
+  color: rgb(255, 255, 255);
 }
 
 .percent {
-  color: rgb(88, 96, 105)
+  color: rgb(200, 200, 200)
 }
 </style>
 <g>
@@ -100,7 +100,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Languages Used (By File Size)</h2>
+<h2>Which languages do I write in?</h2>
 
 <div>
 <span class="progress">
